@@ -1,0 +1,15 @@
+{
+  "name": "tax-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taxCalculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
